@@ -15,9 +15,13 @@ For this project, I was interestested in using Foursquare data to create a recom
 
 ## File Descriptions
 
-* Several versions of the Jupyter notebook used before importing the project to GitHub
 * CCASF12010CMAP.xlsx - Excel file of Chicago neighborhood data
-* Other Excel files were exported from Jupyter notebook.
+* ChiCatOneHot.xlsx - Dataframe after applying one-hot encoding saved to Excel file
+* Chicago Restaurant Recommender System - Final.ipynb - Jupyter Notebook of work
+* Chicago Restaurant Recommender System Presentation.pdf - Presentation saved as pdf
+* Chicago Restaurant Recommender System Report.pdf - Report of findings
+* Chicago Restaurant Recommender System.pptx - PowerPoint presentation
+* ChicagoVenues.xlsx - Venue data pulled from Foursquare API saved to Excel file
 
 ## Results
 
